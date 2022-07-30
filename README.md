@@ -129,17 +129,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     -Prices to be adjusted based on sales
     -Prices to be adjusted dependent on need
 
-## DEV TODO:
------------------------
-### 1. client
-    -Vending machine UI
-    -ACTION: PURCHASE SODA
-        -Quantity stock change as needed in vending machine
-        -Payment display functionality
-### 2. server
-    -Main Admin greeting page
-    -Admin check status of vending machine
-        -Displays current stock (JSON) of sodas
-        -Admin restock vending machine
-        -Operations Page
-            -CRUD operations for soda via POSTMAN/API with future direct implementation
