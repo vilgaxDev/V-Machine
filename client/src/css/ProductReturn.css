@@ -1,0 +1,22 @@
+.product_return_btn {
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: rgba(10, 10, 10, 0.500);
+    margin-top: 10px;
+    padding: 0px;
+}
+
+.product_return_btn:active {
+    background-color: rgb(110, 110, 110, .800);
+}
+
+.product_return_name {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.product_return_name:active{
+    visibility: hidden;
+}

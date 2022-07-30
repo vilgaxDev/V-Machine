@@ -1,0 +1,30 @@
+[
+        {
+            "id": 1,
+            "name": "Redbull",
+            "cost": 1,
+            "quantity": 100,
+            "desc": "An effervescent fruity experience with hints of grape and coriander."
+        },
+        {
+            "id": 2,
+            "name": "Monster",
+            "cost": 1,
+            "quantity": 100,
+            "desc": "An explosion of flavor that will knock your socks off!"
+        },
+        {
+            "id": 3,
+            "name": "Coca Cola",
+            "cost": 1,
+            "quantity": 200,
+            "desc": "A basic no nonsense cola that is the perfect pick me up for any occasion."
+        },
+        {
+            "id": 4,
+            "name": "Sprite",
+            "cost": 1,
+            "quantity": 50,
+            "desc": "Not for the faint of heart. So flavorful and so invigorating, it should probably be illegal."
+        }
+]

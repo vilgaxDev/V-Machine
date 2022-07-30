@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title><%= title %></title>
+        <link rel='stylesheet' href='/stylesheets/style.css' />
+    </head>
+    <body>
+        <% include templates/header.ejs %>
+        <h1><%= title %></h1>
+        <h3>
+            Sodas in Vending Machine:
+        </h3>
+        <pre><%= JSON.stringify(sodaJSON, null, 2) %></pre>
+    </body>
+</html>
